@@ -2,3 +2,5 @@
   translation: leer mas
 - id: knowMore
   translation: saber mas
+- id: sendMessage
+  translation: Enviar Mensaje
